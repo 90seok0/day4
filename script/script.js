@@ -35,7 +35,7 @@ setTimeout(function(){
 
 $('.blur').click(function(){
 	alert('점검중입니다.');
-	window.location.href = "https://cantodayandtomorrowbedifferent.github.io/day4/updatemap/";
+	
 });
 
 
